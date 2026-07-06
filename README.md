@@ -7,8 +7,8 @@ I enjoy building small projects to improve my programming skills and deepen my u
 
 ## About Me
 
-I enjoy learning and building software, currently exploring **Python and Swift**, and I also have experience with **HTML, CSS, and JavaScript**.
-I enjoy learning new technologies, solving problems, and building useful applications.
+I enjoy learning and building software, and solving problems using new technologies.
+I'm currently exploring **Python and Swift**, and I also have experience with **HTML, CSS, and JavaScript**.
 
 ---
 
